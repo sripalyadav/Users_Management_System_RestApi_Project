@@ -1,0 +1,12 @@
+datasource: ''
+ddl-auto: create
+driver-class-name: oracle.jdbc.driver.OracleDriver
+hibernate: ''
+jpa: ''
+password: system
+port: 9090
+server: ''
+show-sql: true
+spring: ''
+url: jdbc:oracle:thin:@localhost:1521:xe
+username: system
